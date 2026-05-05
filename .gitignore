@@ -1,0 +1,17 @@
+# Android
+.gradle/
+build/
+local.properties
+/.idea/
+*.iml
+
+# Python & Backend
+__pycache__/
+*.pyc
+.env
+venv/
+*.db
+auth.log
+
+# Docker
+.dockerignore
